@@ -41,7 +41,7 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 | Centro de Difusão de Tecnologia e Conhecimento |                Introdução a Álgebra Booleana                 |      6 h      |   2012    |
 | Centro de Difusão de Tecnologia e Conhecimento |                       Tipos de Ataque                        |      3 h      |   2012    |
 |                 Fatec Ourinhos                 |                UML Unified Modeling Language                 |      4 h      |   2012    |
-|                     4Linux                     | Administração PostgreSQL Alta Performance  ​[:link:](​https://github.com/viniciuskurt/Certificados/blob/master/Certificado%204Linux%20-%20Administracao%20PostgreSQL%20com%20Alta%20Performance.pdf) |     40 h      |   2014    |
+|                     4Linux                     | Administração PostgreSQL Alta Performance  ​[:link:](​https://github.com/viniciuskurt/Certificados/commit/6db8fb9a4abc33b3a3c02c204028a728ed6638da) |     40 h      |   2014    |
 |                     Udemy                      |             Virtualização com Oracle VirtualBox              |     2,5 h     |   2015    |
 |                     Udemy                      | Desenvolvedor Web [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Udemy%20-%20Desenvolvedor%20Web.pdf) |     14 h      |   2016    |
 |                 UFMG/Senado F.                 | Lei do Acesso a Informação  ​[:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20UFMG%20e%20Senado%20Federal%20-%20Lei%20do%20Acesso%20a%20Informacao.pdf) |     12 h      |   2016    |
