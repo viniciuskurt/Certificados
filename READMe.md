@@ -58,11 +58,19 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 
 
 
-### :pencil: Tools and expertise
+### :pencil: Tools and Expertise
 
 
 
-- Html      
+-Html5		    -CSS3 		-MySql		-Psql		- Python 	-R		-Git		-GitHub
+
+-Pycharm		-Rstudio	-GLPi		  -Typora	-Jupyter Notebook	-Google Colab	
+
+-LibreOffice	-Microsoft Office		-Linux		-Windows		-Anaconda		-Active Directory Windows
+
+-Teamviewer 	-Sublime Text		  -VSCOde	-Markdown	-Numpy			-Pandas		-SciPy
+
+-MatplotLib		-Seaborn		-Plotly
 
 
 
