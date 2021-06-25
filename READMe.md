@@ -14,11 +14,11 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 
 
 
-|                      Instituição                      |                           Formação                           | Carga horária | Conclusão |
-| :---------------------------------------------------: | :----------------------------------------------------------: | :-----------: | :-------: |
-|              E. E. "Maria Cruz Pimentel"              |                         Ensino Médio                         |       -       |   2002    |
-|  Escola Técnica Estadual "Professor Fausto Mazzola"   | Nível Técnico em Informática para Internet (Desenvolvimento Web) |       -       |   2016    |
-| Universidade Virtual do Estado de São Paulo - Univesp |                Graduação em Ciência de Dados                 |       -       |   2024    |
+|                      Instituição                      |                           Formação                           | Conclusão |
+| :---------------------------------------------------: | :----------------------------------------------------------: | :-------: |
+|              E. E. "Maria Cruz Pimentel"              |                         Ensino Médio                         |   2002    |
+|  Escola Técnica Estadual "Professor Fausto Mazzola"   | Nível Técnico em Informática para Internet (Desenvolvimento Web) |   2016    |
+| Universidade Virtual do Estado de São Paulo - Univesp |                Graduação em Ciência de Dados                 |   2024    |
 
 
 
@@ -46,7 +46,8 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 |                     Udemy                      | Desenvolvedor Web [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Udemy%20-%20Desenvolvedor%20Web.pdf) |     14 h      |   2016    |
 |                 UFMG/Senado F.                 | Lei do Acesso a Informação  ​[:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20UFMG%20e%20Senado%20Federal%20-%20Lei%20do%20Acesso%20a%20Informacao.pdf) |     12 h      |   2016    |
 |                   Senai EAD                    | Desvendando a Indústria 4.0 [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Sesi%20-%20Industria%204p0.pdf) |     20 h      |   2018    |
-|               Digital Innovation               | Introdução ao Git e ao GitHub  [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20ao%20Git%20e%20GitHub.pdf) |      5 h      |   2021    |
+|             Digital Innovation One             | Introdução ao Git e ao GitHub  [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20ao%20Git%20e%20GitHub.pdf) |      5 h      |   2021    |
+|             Digital Innovation One             |               Introdução a Engenharia de Dados               |      2 h      |   2021    |
 |      Johns Hopkins University - Coursera       | The Data Scientist’s Toolbox ​[:link:](​https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) |     4 sem     |   2021    |
 
 
@@ -63,7 +64,7 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 
 
 
----- Html5 ---- CSS3---- MySql ---- Psql ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin
+---- Html5 ---- CSS3---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse
 
 
 
@@ -75,11 +76,17 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 
 
 
-## 💬 Palestras / Eventos Online
+## 💬 Palestras / Webinars
 
 
 
-...... em construção :hammer: :construction_worker: :construction:
+| Organização                                            |            Evento             |                      Assunto                       | Profissional                                 |   Data/ C.H.   |
+| ------------------------------------------------------ | :---------------------------: | :------------------------------------------------: | -------------------------------------------- | :------------: |
+| ![](C:\Users\vinicius.almeida\Pictures\EBACT.svg)EBACT | O Poder Estratégico dos Dados | Tomando decisões mais conscientes utilizando dados | Daniel Lopes (C. D. Hórus ITS)               | junho/2021 - h |
+| EBACT                                                  |             \|\|              |               Storytelling com dados               | Felipe Machado (Cientista de dados na Olist) | junho/2021-1 h |
+|                                                        |                               |                                                    |                                              |                |
+
+
 
 
 
