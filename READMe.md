@@ -22,6 +22,8 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 
 
 
+
+
 ## 🎓 Cursos
 
 
@@ -49,6 +51,8 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 |             Digital Innovation One             | Introdução ao Git e ao GitHub  [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20ao%20Git%20e%20GitHub.pdf) |      5 h      |   2021    |
 |             Digital Innovation One             |               Introdução a Engenharia de Dados               |      2 h      |   2021    |
 |      Johns Hopkins University - Coursera       | The Data Scientist’s Toolbox ​[:link:](​https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) |     4 sem     |   2021    |
+
+
 
 
 
@@ -80,11 +84,11 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 
 
 
-| Organização                                            |            Evento             |                      Assunto                       | Profissional                                 |   Data/ C.H.   |
-| ------------------------------------------------------ | :---------------------------: | :------------------------------------------------: | -------------------------------------------- | :------------: |
-| ![](C:\Users\vinicius.almeida\Pictures\EBACT.svg)EBACT | O Poder Estratégico dos Dados | Tomando decisões mais conscientes utilizando dados | Daniel Lopes (C. D. Hórus ITS)               | junho/2021 - h |
-| EBACT                                                  |             \|\|              |               Storytelling com dados               | Felipe Machado (Cientista de dados na Olist) | junho/2021-1 h |
-|                                                        |                               |                                                    |                                              |                |
+| Organização | Evento                        |                      Assunto                       | Profissional                                 |   Data/ C.H.   |
+| :---------: | :---------------------------- | :------------------------------------------------: | -------------------------------------------- | :------------: |
+|  **EBACT**  | O Poder Estratégico dos Dados | Tomando decisões mais conscientes utilizando dados | Daniel Lopes (C. D. Hórus ITS)               | junho/2021 1 h |
+|  **EBACT**  | O Poder Estratégico dos Dados |               Storytelling com dados               | Felipe Machado (Cientista de dados na Olist) | junho/2021 1 h |
+|             |                               |                                                    |                                              |                |
 
 
 
