@@ -88,12 +88,6 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 
 
 
-## 🎲 Outros
-
-...... em construção :hammer: :construction_worker: :construction:
-
-
-
 ### :pencil: Tools and Expertise
 
 ## 
@@ -101,3 +95,12 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 #### 
 
 ---- Html5 ---- CSS3---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse
+
+
+
+
+
+## 🎲 Outros
+
+...... em construção :hammer: :construction_worker: :construction:
+
