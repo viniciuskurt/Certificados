@@ -80,8 +80,8 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 
 | Organização | Evento                        |                      Assunto                       | Profissional                                 |   Data/ C.H.   |
 | :---------: | :---------------------------- | :------------------------------------------------: | -------------------------------------------- | :------------: |
-|  **EBACT**  | O Poder Estratégico dos Dados | Tomando decisões mais conscientes utilizando dados | Daniel Lopes (C. D. Hórus ITS)               | junho/2021 1 h |
-|  **EBACT**  | O Poder Estratégico dos Dados |               Storytelling com dados               | Felipe Machado (Cientista de dados na Olist) | junho/2021 1 h |
+|    EBACT    | O Poder Estratégico dos Dados | Tomando decisões mais conscientes utilizando dados | Daniel Lopes (C. D. Hórus ITS)               | junho/2021 1 h |
+|    EBACT    | O Poder Estratégico dos Dados |               Storytelling com dados               | Felipe Machado (Cientista de dados na Olist) | junho/2021 1 h |
 |             |                               |                                                    |                                              |                |
 
 
