@@ -50,8 +50,8 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 |                   Senai EAD                    | Desvendando a Indústria 4.0 [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Sesi%20-%20Industria%204p0.pdf) |     20 h      |   2018    |
 |             Digital Innovation One             | Introdução ao Git e ao GitHub  [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20ao%20Git%20e%20GitHub.pdf) |      5 h      |   2021    |
 |             Digital Innovation One             | Introdução a Engenharia de Dados [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20a%20Engenharia%20de%20Dados.pdf) |      2 h      |   2021    |
-|             Digital Innovation One             |             Shell Script - Manipulando Arquivos              |      2 h      |   2021    |
-|             Digital Innovation One             |                     Introdução ao Linux                      |     10 h      |   2021    |
+|             Digital Innovation One             | Shell Script - Manipulando Arquivos [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Shell%20Script%20-%20Manipulando%20Arquivos.pdf) |      2 h      |   2021    |
+|             Digital Innovation One             | Introdução ao Linux ​[:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20ao%20Linux.pdf) |     10 h      |   2021    |
 |      Johns Hopkins University - Coursera       | The Data Scientist’s Toolbox [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) |     4 sem     |   2021    |
 
 
