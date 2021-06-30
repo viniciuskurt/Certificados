@@ -52,7 +52,7 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 |             Digital Innovation One             | Introdução a Engenharia de Dados [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20a%20Engenharia%20de%20Dados.pdf) |      2 h      |   2021    |
 |             Digital Innovation One             | Shell Script - Manipulando Arquivos [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Shell%20Script%20-%20Manipulando%20Arquivos.pdf) |      2 h      |   2021    |
 |             Digital Innovation One             | Introdução ao Linux ​[:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20ao%20Linux.pdf) |     10 h      |   2021    |
-|             Digital Innovation One             |                Introducao a Ciencia de Dados                 |      2 h      |   2021    |
+|             Digital Innovation One             | Introducao a Ciencia de Dados [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20a%20Ciencia%20de%20Dados.pdf) |      2 h      |   2021    |
 |      Johns Hopkins University - Coursera       | The Data Scientist’s Toolbox [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) |     4 sem     |   2021    |
 
 
