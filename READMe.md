@@ -55,6 +55,7 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 |             Digital Innovation One             | Introdução a Ciência de Dados [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20a%20Ciencia%20de%20Dados.pdf) |      2 h      |   2021    |
 |             Digital Innovation One             | Governança de Dados [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Governanca%20de%20Dados.pdf) |      1 h      |   2021    |
 |             Digital Innovation One             | Fundamentos de Arquitetura de Sistemas [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Fundamentos%20e%20Arquitetura%20de%20Sistemas.pdf) |      6 h      |   2021    |
+|             Digital Innovation One             | Arquitetura de Sistemas Avançado [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Arquitetura%20de%20Sistemas%20Avancado.pdf) |      3 h      |   2021    |
 |      Johns Hopkins University - Coursera       | The Data Scientist’s Toolbox [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) |     4 sem     |   2021    |
 
 
@@ -94,10 +95,6 @@ Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
 
 
 ### :pencil: Tools and Expertise
-
-## 
-
-#### 
 
 ---- Html5 ---- CSS3---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket
 
