@@ -56,6 +56,7 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 |             Digital Innovation One             | Governança de Dados [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Governanca%20de%20Dados.pdf) |      1 h      |   2021    |
 |             Digital Innovation One             | Fundamentos de Arquitetura de Sistemas [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Fundamentos%20e%20Arquitetura%20de%20Sistemas.pdf) |      6 h      |   2021    |
 |             Digital Innovation One             | Arquitetura de Sistemas Avançado [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Arquitetura%20de%20Sistemas%20Avancado.pdf) |      3 h      |   2021    |
+|             Digital Innovation One             | Introdução a Programação com Python [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20à%20programação%20com%20Python.pdf) |      8 h      |   2021    |
 |      Johns Hopkins University - Coursera       | The Data Scientist’s Toolbox [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) |     4 sem     |   2021    |
 
 
