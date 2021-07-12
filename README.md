@@ -6,7 +6,7 @@
 
 Este é um repositório exclusivo de meus certificados de conclusão de cursos, treinamentos e eventos Online.
 
-Clique no ícone "link" (:link:) para visualizar o Certificado/comprovante.
+Clique no ícone "link" (:link:) para visualizar o Certificado.
 
 
 
