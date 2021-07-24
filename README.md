@@ -84,11 +84,15 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 
 
 
-| Organização | Evento                             |                      Assunto                       | Profissional                                 |    Data/ C.H.     |
-| :---------: | :--------------------------------- | :------------------------------------------------: | -------------------------------------------- | :---------------: |
-|    EBACT    | O Poder Estratégico dos Dados      | Tomando decisões mais conscientes utilizando dados | Daniel Lopes (C. D. Hórus ITS)               |  junho/2021 1 h   |
-|    EBACT    | O Poder Estratégico dos Dados      |               Storytelling com dados               | Felipe Machado (Cientista de dados na Olist) |  junho/2021 1 h   |
-| Let's Code  | Santander Coders Ciência  de Dados |                       Python                       | Milton Ossa                                  | julho/2021    1 h |
+|                Organização                 |                 Evento                 |                          Assunto                          | Profissional                                 |   Data/ C.H.   |
+| :----------------------------------------: | :------------------------------------: | :-------------------------------------------------------: | -------------------------------------------- | :------------: |
+|                   EBACT                    |     O Poder Estratégico dos Dados      |    Tomando decisões mais conscientes utilizando dados     | Daniel Lopes (C. D. Hórus ITS)               |   jun/21 -1h   |
+|                   EBACT                    |     O Poder Estratégico dos Dados      |                  Storytelling com dados                   | Felipe Machado (Cientista de dados na Olist) |  jun/21 - 1h   |
+|                 Let's Code                 |   Santander Coders Ciência  de Dados   |                          Python                           | Milton Ossa                                  | jul/21    - 1h |
+|                 Let's Code                 |   Santander Coders Ciência  de Dados   |                     Ciência de Dados                      | Milton Ossa                                  |  jul/21 - 1h   |
+| Comunidade Bioestatística Patricia Martins | Semana da Bioestatística Computacional |       Conceitos Fundamentais de Métodos Científicos       | Patrícia Martins                             |   jul/21 -1h   |
+| Comunidade Bioestatística Patricia Martins | Semana da Bioestatística Computacional | Tipos de Testes p/ Variáveis Qualitativas e Quantitativas | Patrícia Martins                             |   jul/21 -1h   |
+| Comunidade Bioestatística Patricia Martins | Semana da Bioestatística Computacional |           Cálculo Amostral no Software G-Power            | Patrícia Martins                             |   jul/21 -1h   |
 
 
 
