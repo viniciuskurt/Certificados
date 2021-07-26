@@ -82,17 +82,17 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 
 ## 💬 Palestras / Webinars
 
+Clique no ícone :scroll: para visualizar os certificados. (Eventos sem o ícone não geraram certificados.)
 
-
-|                Organização                 |                 Evento                 |                          Assunto                          | Profissional                                 |   Data/ C.H.   |
-| :----------------------------------------: | :------------------------------------: | :-------------------------------------------------------: | -------------------------------------------- | :------------: |
-|                   EBACT                    |     O Poder Estratégico dos Dados      |    Tomando decisões mais conscientes utilizando dados     | Daniel Lopes (C. D. Hórus ITS)               |   jun/21 -1h   |
-|                   EBACT                    |     O Poder Estratégico dos Dados      |                  Storytelling com dados                   | Felipe Machado (Cientista de dados na Olist) |  jun/21 - 1h   |
-|                 Let's Code                 |   Santander Coders Ciência  de Dados   |                          Python                           | Milton Ossa                                  | jul/21    - 1h |
-|                 Let's Code                 |   Santander Coders Ciência  de Dados   |                     Ciência de Dados                      | Milton Ossa                                  |  jul/21 - 1h   |
-| Comunidade Bioestatística Patricia Martins | Semana da Bioestatística Computacional |       Conceitos Fundamentais de Métodos Científicos       | Patrícia Martins                             |   jul/21 -1h   |
-| Comunidade Bioestatística Patricia Martins | Semana da Bioestatística Computacional | Tipos de Testes p/ Variáveis Qualitativas e Quantitativas | Patrícia Martins                             |   jul/21 -1h   |
-| Comunidade Bioestatística Patricia Martins | Semana da Bioestatística Computacional |           Cálculo Amostral no Software G-Power            | Patrícia Martins                             |   jul/21 -1h   |
+|        Organização        |                 Evento                 |                           Assunto                            | Profissional                                                 | Data/ C.H.   |
+| :-----------------------: | :------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | :----------- |
+|           EBACT           |     O Poder Estratégico dos Dados      |      Tomando decisões mais conscientes utilizando dados      | Daniel Lopes \| C. D. Hórus ITS                              | jun/21 1h    |
+|           EBACT           |     O Poder Estratégico dos Dados      |                    Storytelling com dados                    | Felipe Machado \| Cientista de dados na Olist                | jun/21 1h    |
+|        Let's Code         |   Santander Coders Ciência  de Dados   |                            Python                            | Milton Ossa \| Cientista de Dados Santander)                 | jul/21  1h   |
+|        Let's Code         |   Santander Coders Ciência  de Dados   |                       Ciência de Dados                       | Milton Ossa \| Cientista de Dados Santander                  | jul/21 1h    |
+| Comunidade Bioestatística | Semana da Bioestatística Computacional | Conceitos Fundamentais de Métodos Científicos [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2:30h |
+| Comunidade Bioestatística | Semana da Bioestatística Computacional | Tipos de Testes p/ Variáveis Qualitativas e Quantitativas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2:30h |
+| Comunidade Bioestatística | Semana da Bioestatística Computacional | Cálculo Amostral no Software G-Power [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2h    |
 
 
 
@@ -100,7 +100,7 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 
 ### :pencil: Tools and Expertise
 
----- Html5 ---- CSS3---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket
+---- Html5 ---- CSS3 ---- JavaScritp ---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket
 
 
 
