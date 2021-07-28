@@ -58,6 +58,7 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 |             Digital Innovation One             | Arquitetura de Sistemas Avançado [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Arquitetura%20de%20Sistemas%20Avancado.pdf) |      3 h      |   2021    |
 |             Digital Innovation One             | Introdução a Programação com Python [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20à%20programação%20com%20Python.pdf) |      8 h      |   2021    |
 |             Digital Innovation One             | Introdução a orquestração de Conteineres com Docker ​[:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20a%20orquestração%20de%20Conteineres%20com%20Docker.pdf) |      4 h      |   2021    |
+| Digital Innovation One | Introdução ao Big Data e Hadoop [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20ao%20Big%20Data%20e%20Hadoop.pdf) | 2 h | 2021 |
 | Johns Hopkins University - Coursera | The Data Scientist’s Toolbox  [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) | 4 sem | 2021 |
 
 
