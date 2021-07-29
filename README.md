@@ -48,6 +48,7 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 |                     Udemy                      | Desenvolvedor Web [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Udemy%20-%20Desenvolvedor%20Web.pdf) |     14 h      |   2016    |
 |                 UFMG/Senado F.                 | Lei do Acesso a Informação  ​[:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20UFMG%20e%20Senado%20Federal%20-%20Lei%20do%20Acesso%20a%20Informacao.pdf) |     12 h      |   2016    |
 |                   Senai EAD                    | Desvendando a Indústria 4.0 [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Sesi%20-%20Industria%204p0.pdf) |     20 h      |   2018    |
+| Digital House | JavaScript Básico | 6 h | 2021 |
 |             Digital Innovation One             | Introdução ao Git e ao GitHub  [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20ao%20Git%20e%20GitHub.pdf) |      5 h      |   2021    |
 |             Digital Innovation One             | Introdução a Engenharia de Dados [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introducao%20a%20Engenharia%20de%20Dados.pdf) |      2 h      |   2021    |
 |             Digital Innovation One             | Shell Script - Manipulando Arquivos [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Shell%20Script%20-%20Manipulando%20Arquivos.pdf) |      2 h      |   2021    |
@@ -57,10 +58,9 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 |             Digital Innovation One             | Fundamentos de Arquitetura de Sistemas [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Fundamentos%20e%20Arquitetura%20de%20Sistemas.pdf) |      6 h      |   2021    |
 |             Digital Innovation One             | Arquitetura de Sistemas Avançado [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Arquitetura%20de%20Sistemas%20Avancado.pdf) |      3 h      |   2021    |
 |             Digital Innovation One             | Introdução a Programação com Python [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20à%20programação%20com%20Python.pdf) |      8 h      |   2021    |
-|      Johns Hopkins University - Coursera       | The Data Scientist’s Toolbox [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) |     4 sem     |   2021    |
-
-
-
+|             Digital Innovation One             | Introdução a orquestração de Conteineres com Docker ​[:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20a%20orquestração%20de%20Conteineres%20com%20Docker.pdf) |      4 h      |   2021    |
+| Digital Innovation One | Introdução ao Big Data e Hadoop [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20ao%20Big%20Data%20e%20Hadoop.pdf) | 2 h | 2021 |
+| Johns Hopkins University - Coursera | The Data Scientist’s Toolbox  [:link:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) | 4 sem | 2021 |
 
 
 #### :books: Outros Cursos
@@ -84,13 +84,27 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 
 ## 💬 Palestras / Webinars
 
+Clique no ícone :scroll: para visualizar os certificados. (Eventos sem o ícone não geraram certificados.)
 
+<<<<<<< HEAD
 
 | Organização | Evento                        |                      Assunto                       | Profissional                           |    Data C.h.    |
 | :---------: | :---------------------------- | :------------------------------------------------: | -------------------------------------- | :-------------: |
 |    EBACT    | O Poder Estratégico dos Dados | Tomando decisões mais conscientes utilizando dados | Daniel Lopes \| D. S., Hórus ITS       |  jun/2021 1 h   |
 |    EBACT    | O Poder Estratégico dos Dados |               Storytelling com dados               | Felipe Machado \| D. S., Olist         |  jun/2021 1 h   |
 |     AWS     | AWS Series Brasil             |          Construindo um Data Lake na AWS           | Pedro Rates \|Solutions Architect, AWS | jul/2021    1 h |
+=======
+|        Organização        |                 Evento                 |                           Assunto                            | Profissional                                                 | Data/ C.H.   |
+| :-----------------------: | :------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | :----------- |
+|           EBACT           |     O Poder Estratégico dos Dados      |      Tomando decisões mais conscientes utilizando dados      | Daniel Lopes \| C. D. Hórus ITS                              | jun/21 1h    |
+|           EBACT           |     O Poder Estratégico dos Dados      |                    Storytelling com dados                    | Felipe Machado \| Cientista de dados na Olist                | jun/21 1h    |
+|        Let's Code         |   Santander Coders Ciência  de Dados   |                            Python                            | Milton Ossa \| Cientista de Dados Santander)                 | jul/21  1h   |
+|        Let's Code         |   Santander Coders Ciência  de Dados   |                       Ciência de Dados                       | Milton Ossa \| Cientista de Dados Santander                  | jul/21 1h    |
+| Comunidade Bioestatística | Semana da Bioestatística Computacional | Conceitos Fundamentais de Métodos Científicos [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2:30h |
+| Comunidade Bioestatística | Semana da Bioestatística Computacional | Tipos de Testes p/ Variáveis Qualitativas e Quantitativas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2:30h |
+| Comunidade Bioestatística | Semana da Bioestatística Computacional | Cálculo Amostral no Software G-Power [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2h    |
+
+>>>>>>> 7bc38a82d41fa12ff62344618c67f1755dfa3f72
 
  
 
@@ -98,7 +112,11 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 
 ### :pencil: Tools and Expertise
 
+<<<<<<< HEAD
 Html5 ---- CSS3---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket
+=======
+---- Html5 ---- CSS3 ---- JavaScritp ---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket
+>>>>>>> 7bc38a82d41fa12ff62344618c67f1755dfa3f72
 
 
 
