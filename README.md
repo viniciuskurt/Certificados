@@ -86,18 +86,19 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 
 
 
-| Organização | Evento                        |                      Assunto                       | Profissional                                 |   Data/ C.H.   |
-| :---------: | :---------------------------- | :------------------------------------------------: | -------------------------------------------- | :------------: |
-|    EBACT    | O Poder Estratégico dos Dados | Tomando decisões mais conscientes utilizando dados | Daniel Lopes (C. D. Hórus ITS)               | junho/2021 1 h |
-|    EBACT    | O Poder Estratégico dos Dados |               Storytelling com dados               | Felipe Machado (Cientista de dados na Olist) | junho/2021 1 h |
+| Organização | Evento                        |                      Assunto                       | Profissional                           |    Data C.h.    |
+| :---------: | :---------------------------- | :------------------------------------------------: | -------------------------------------- | :-------------: |
+|    EBACT    | O Poder Estratégico dos Dados | Tomando decisões mais conscientes utilizando dados | Daniel Lopes \| D. S., Hórus ITS       |  jun/2021 1 h   |
+|    EBACT    | O Poder Estratégico dos Dados |               Storytelling com dados               | Felipe Machado \| D. S., Olist         |  jun/2021 1 h   |
+|     AWS     | AWS Series Brasil             |          Construindo um Data Lake na AWS           | Pedro Rates \|Solutions Architect, AWS | jul/2021    1 h |
 
-
+ 
 
 
 
 ### :pencil: Tools and Expertise
 
----- Html5 ---- CSS3---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket
+Html5 ---- CSS3---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket
 
 
 
