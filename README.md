@@ -86,14 +86,6 @@ Clique no ícone "link" (:link:) para visualizar o Certificado.
 
 Clique no ícone :scroll: para visualizar os certificados. (Eventos sem o ícone não geraram certificados.)
 
-<<<<<<< HEAD
-
-| Organização | Evento                        |                      Assunto                       | Profissional                           |    Data C.h.    |
-| :---------: | :---------------------------- | :------------------------------------------------: | -------------------------------------- | :-------------: |
-|    EBACT    | O Poder Estratégico dos Dados | Tomando decisões mais conscientes utilizando dados | Daniel Lopes \| D. S., Hórus ITS       |  jun/2021 1 h   |
-|    EBACT    | O Poder Estratégico dos Dados |               Storytelling com dados               | Felipe Machado \| D. S., Olist         |  jun/2021 1 h   |
-|     AWS     | AWS Series Brasil             |          Construindo um Data Lake na AWS           | Pedro Rates \|Solutions Architect, AWS | jul/2021    1 h |
-=======
 |        Organização        |                 Evento                 |                           Assunto                            | Profissional                                                 | Data/ C.H.   |
 | :-----------------------: | :------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | :----------- |
 |           EBACT           |     O Poder Estratégico dos Dados      |      Tomando decisões mais conscientes utilizando dados      | Daniel Lopes \| C. D. Hórus ITS                              | jun/21 1h    |
@@ -104,19 +96,13 @@ Clique no ícone :scroll: para visualizar os certificados. (Eventos sem o ícone
 | Comunidade Bioestatística | Semana da Bioestatística Computacional | Tipos de Testes p/ Variáveis Qualitativas e Quantitativas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2:30h |
 | Comunidade Bioestatística | Semana da Bioestatística Computacional | Cálculo Amostral no Software G-Power [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2h    |
 
->>>>>>> 7bc38a82d41fa12ff62344618c67f1755dfa3f72
 
- 
 
 
 
 ### :pencil: Tools and Expertise
 
-<<<<<<< HEAD
-Html5 ---- CSS3---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket
-=======
 ---- Html5 ---- CSS3 ---- JavaScritp ---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket
->>>>>>> 7bc38a82d41fa12ff62344618c67f1755dfa3f72
 
 
 
