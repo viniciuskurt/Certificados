@@ -12,7 +12,7 @@ This is an exclusive repository of my Online Course Completion Certificates, Tra
 
 Clique no ícone (:scroll:) para visualizar o Certificado. 
 
-Click on the icon (: scroll :) to view the Certificate.
+Click on the icon ([:scroll:]) to view the Certificate.
 
 ## 🏛 Acadêmico / Científico
 
