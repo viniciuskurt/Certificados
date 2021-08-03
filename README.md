@@ -71,6 +71,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 |             Digital Innovation - Carrefour Data Engineer             | Introdução a orquestração de Conteineres com Docker  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20a%20orquestração%20de%20Conteineres%20com%20Docker.pdf) |      4 h      |   2021    |
 | Digital Innovation - Carrefour Data Engineer | Introdução ao Big Data e Hadoop [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20ao%20Big%20Data%20e%20Hadoop.pdf) | 2 h | 2021 |
 | Digital Innovation - Cognizant Cloud Data Engineer | Iniciação ao  Bootcamp Cognizant Cloud Data  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Cognizant%20-%20Bootcamp%20Cognizant%20Cloud%20Data.pdf) | 1 h | 2021 |
+| Digital Innovation - Cognizant Cloud Data Enginee | Fundamentos de ETL com Python [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Fundamentos%20de%20ETL%20com%20Python.pdf) | 5 h | 2021 |
 | Johns Hopkins University - Coursera | The Data Scientist’s Toolbox   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) | 4 sem | 2021 |
 
 #### :books: Outros Cursos
