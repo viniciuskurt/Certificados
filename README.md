@@ -78,6 +78,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | DIO - Cognizant Cloud Data Engineer | Conceitos e Melhores Práticas em Banco de Dados com PostgreSQL [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Cognizant%20-%20Conceitos%20e%20Melhores%20Praticas%20BD%20Postgresql.pdf) | 9 h | 2021 |
 | DIO - Cognizant Cloud Data Engineer | Introdução a Engenharia de Dados na AWS [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Introdução%20a%20Engenharia%20de%20Dados%20na%20AWS.pdf) | 2 h | 2021 |
 | DIO - Cognizant Cloud Data Engineer | Análise de Dados com Python  e  Pandas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CertificadoDIO-Análise_de_dados_com_Python_%20e_%20Pandas.pdf) | 5 h | 2021 |
+| DIO - Cognizant Cloud Data Engineer | [Explorando o poder do NoSQL com Cassandra e HBase :scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Cognizant%20-%20Explorando%20o%20poder%20do%20NoSQL%20com%20Cassandra%20e%20Hbase.pdf) | 4 h | 2021 |
 | Johns Hopkins University - Coursera | The Data Scientist’s Toolbox   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) | 4 sem | 2021 |
 
 #### :books: Outros Cursos
