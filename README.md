@@ -80,6 +80,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | DIO - Cloud Data Engineer | Análise de Dados com Python  e  Pandas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CertificadoDIO-Análise_de_dados_com_Python_%20e_%20Pandas.pdf) | 5 h | 2021 |
 | DIO - Cloud Data Engineer | Monitoramento de Clusters Hadoop de Alto Nível com HDFS e YARN [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Cognizant%20-%20Monitoramento%20de%20clusters%20Hadoop%20de%20Alto%20Nível%20com%20HDFS%20e%20YARN.pdf) | 4 h | 2021 |
 | DIO - Cloud Data Engineer | [Explorando o poder do NoSQL com Cassandra e HBase :scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Cognizant%20-%20Explorando%20o%20poder%20do%20NoSQL%20com%20Cassandra%20e%20Hbase.pdf) | 4 h | 2021 |
+| Digital Innovation One - Data Engineer | Orquestrando ambientes de Big Data Distribuidos com Zookeper Yarn e Sqoop [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Orquestrando%20ambientes%20de%20Big%20Data%20Distribuidos%20com%20Zookeper%20Yarn%20e%20Sqoop.pdf) | 4 h | 2021 |
 | Johns Hopkins University - Coursera | The Data Scientist’s Toolbox   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) | 4 sem | 2021 |
 
 #### :books: Outros Cursos
