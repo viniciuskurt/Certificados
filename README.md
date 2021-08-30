@@ -83,6 +83,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Digital Innovation One - Data Engineer | Orquestrando ambientes de Big Data Distribuidos com Zookeper Yarn e Sqoop [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Orquestrando%20ambientes%20de%20Big%20Data%20Distribuidos%20com%20Zookeper%20Yarn%20e%20Sqoop.pdf) | 4 h | 2021 |
 | Digital Innovation One - Data Engineer | Consultas Simples em Ambientes Complexos de Big Data com Hive e Impala [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Consultas%20Simples%20em%20Ambientes%20Complexos%20de%20Big%20Data%20com%20Hive%20e%20Impala.pdf) | 4 h | 2021 |
 | Digital Innovation One - Data Engineer | Processando Grandes Conjuntos de Dados de Forma Paralela e Distribuída com Spark [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Processando%20Grandes%20Conjuntos%20de%20Dados%20de%20Forma%20Paralela%20e%20Distribuída%20com%20Spark.pdf) | 4 h | 2021 |
+| Digital Innovation One - Data Engineer | Criando pipelines de dados eficientes com Spark e Python | 4 h | 2021 |
 | Johns Hopkins University - Coursera | The Data Scientist’s Toolbox   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) | 4 sem | 2021 |
 
 #### :books: Outros Cursos
