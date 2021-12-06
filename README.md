@@ -110,7 +110,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | :---------------------------: | :---------------------: | :----------------: |
 | Cognizant Cloud Data Engineer | Digital Innovation One  | :heavy_check_mark: |
 | Banco Carrefour Data Engineer | Digital Innovation One  | :heavy_check_mark: |
-|    Desenvolvedor Tech Pan     |          IGTI           |     :clock230:     |
+|    Desenvolvedor Tech Pan     |          IGTI           | :heavy_check_mark: |
 |        Speeed Wiz Dev         |          IGTI           |     :clock230:     |
 
 
