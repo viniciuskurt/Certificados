@@ -87,8 +87,8 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Digital Innovation One | Pipeline de Dados Eficientes com Spark e Python [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Criando%20Pipelines%20de%20Dados%20Eficientes%20com%20Spark%20e%20Python.pdf) | 4 h | 2021 |
 | Digital Innovation One | Visualização de Dados com MicroStrategy [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Trabalhando%20com%20Visualização%20de%20Dados%20Usando%20o%20MicroStrategy.pdf) | 2 h | 2021 |
 | Digital Innovation One | Projetos Ágeis com Scrum [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Projetos%20Ágeis%20com%20Scrum.pdf) | 2 h | 2021 |
-| Johns Hopkins University - Coursera | The Data Scientist’s Toolbox   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) | 4 sem | 2021 |
-| Digital Innovation One | Conceitos de Estrutura de Dados | 2 h | 2021 |
+| Johns Hopkins University / Coursera | The Data Scientist’s Toolbox   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) | 4 sem | 2021 |
+| Digital Innovation One | Conceitos de Estrutura de Dados [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Conceitos%20de%20Estrutura%20de%20Dados.pdf) | 2 h | 2021 |
 
 #### :books: Outros Cursos
 
