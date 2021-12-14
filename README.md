@@ -88,6 +88,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Digital Innovation One | Visualização de Dados com MicroStrategy [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Trabalhando%20com%20Visualização%20de%20Dados%20Usando%20o%20MicroStrategy.pdf) | 2 h | 2021 |
 | Digital Innovation One | Projetos Ágeis com Scrum [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Projetos%20Ágeis%20com%20Scrum.pdf) | 2 h | 2021 |
 | Johns Hopkins University - Coursera | The Data Scientist’s Toolbox   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) | 4 sem | 2021 |
+| Digital Innovation One | Conceitos de Estrutura de Dados | 2 h | 2021 |
 
 #### :books: Outros Cursos
 
@@ -106,12 +107,12 @@ Click on the icon ([:scroll:]) to view the Certificate.
 
 
 
-|         Título/Title          | Instituição/Institution |       Status       |
-| :---------------------------: | :---------------------: | :----------------: |
-| Cognizant Cloud Data Engineer | Digital Innovation One  | :heavy_check_mark: |
-| Banco Carrefour Data Engineer | Digital Innovation One  | :heavy_check_mark: |
-|    Desenvolvedor Tech Pan     |          IGTI           | :heavy_check_mark: |
-|        Speeed Wiz Dev         |          IGTI           |     :clock230:     |
+|         Título/Title          | Instituição/Institution | Carga horária |       Status       |
+| :---------------------------: | :---------------------: | :-----------: | :----------------: |
+| Cognizant Cloud Data Engineer | Digital Innovation One  |     100 H     | :heavy_check_mark: |
+| Banco Carrefour Data Engineer | Digital Innovation One  |     114 H     | :heavy_check_mark: |
+|    Desenvolvedor Tech Pan     |          IGTI           |     148 H     | :heavy_check_mark: |
+|        Speeed Wiz Dev         |          IGTI           |     148 H     | :heavy_check_mark: |
 
 
 
