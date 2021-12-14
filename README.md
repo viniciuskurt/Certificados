@@ -90,6 +90,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Johns Hopkins University / Coursera | The Data Scientist’s Toolbox   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Johns%20Hopkins%20-%20Ferramentas%20do%20Cientista%20de%20Dados.pdf) | 4 sem | 2021 |
 | Digital Innovation One | Conceitos de Estrutura de Dados [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Conceitos%20de%20Estrutura%20de%20Dados.pdf) | 2 h | 2021 |
 | Digital Innovation One | Lógica de Programação Essencial  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Lógica%20de%20Programação%20Essencial.pdf) | 4 h | 2021 |
+| Databricks Academy | Fundamentals of Big Data   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Databricks%20Academy%20-%20Fundamentals%20of%20Big%20Data.pdf) | 4 h | 2021 |
 
 #### :books: Outros Cursos
 
