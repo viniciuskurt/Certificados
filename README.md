@@ -110,12 +110,14 @@ Click on the icon ([:scroll:]) to view the Certificate.
 
 
 
-|         Título/Title          | Instituição/Institution | Carga horária |       Status       |
-| :---------------------------: | :---------------------: | :-----------: | :----------------: |
-| Cognizant Cloud Data Engineer | Digital Innovation One  |     100 H     | :heavy_check_mark: |
-| Banco Carrefour Data Engineer | Digital Innovation One  |     114 H     | :heavy_check_mark: |
-|    Desenvolvedor Tech Pan     |          IGTI           |     148 H     | :heavy_check_mark: |
-|        Speeed Wiz Dev         |          IGTI           |     148 H     | :heavy_check_mark: |
+| Instituição/Institution |                         Título/Title                         | Carga horária |       Status       |
+| :---------------------: | :----------------------------------------------------------: | :-----------: | :----------------: |
+| Digital Innovation One  |                Cognizant Cloud Data Engineer                 |     100 H     | :heavy_check_mark: |
+| Digital Innovation One  |                Banco Carrefour Data Engineer                 |     114 H     | :heavy_check_mark: |
+|          IGTI           | Desenvolvedor Tech Pan  [:scroll:](hhttps://github.com/viniciuskurt/Certificados/blob/master/Certificado%20IGTI%20-%20Bootcamp%20Desenvolvedor%20Tech%20Pan.pdf) |     148 H     | :heavy_check_mark: |
+|          IGTI           |                        Speeed Wiz Dev                        |     148 H     | :heavy_check_mark: |
+| Digital Innovation One  |                   Inter Frontend Developer                   |     99 H      |     :clock10:      |
+| Digital Innovation One  |                   MRV Fullstack Developer                    |     107 H     |      :clock4:      |
 
 
 
