@@ -92,6 +92,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Digital Innovation One | Lógica de Programação Essencial  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Lógica%20de%20Programação%20Essencial.pdf) | 4 h | 2021 |
 | Databricks Academy | Fundamentals of Big Data   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Databricks%20Academy%20-%20Fundamentals%20of%20Big%20Data.pdf) | 4 h | 2021 |
 | Digital Innovation One | Criação de Websites com HTML5 e CSS3 [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Criação%20de%20Websites%20com%20HTML5%20e%20CSS3.pdf) | 6 h | 2021 |
+| Digital Innovation One | Construindo Webpages com Bootstrap  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-Construindo%20Webpages%20com%20Bootstrap.pdf) | 4 H | 2021 |
 
 #### :books: Outros Cursos
 
