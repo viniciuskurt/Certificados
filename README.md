@@ -72,7 +72,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Digital Innovation One | Introdução ao Big Data e Hadoop [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20ao%20Big%20Data%20e%20Hadoop.pdf) | 2 h | 2021 |
 |             Digital Innovation One             | Arquitetura e Modelagem de Dados ​[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-Arquitetura%20e%20Modelagem%20de%20Dados.pdf) | 2 h | 2021 |
 |             Digital Innovation One             | Introdução ao MongoDB e Bancos de Dados NoSQL [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20ao%20MongoDB%20e%20Bancos%20de%20Dados%20NoSQL.pdf) | 6 h | 2021 |
-|             Digital Innovation One             | Iniciação ao  Bootcamp Cognizant Cloud Data  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Cognizant%20-%20Bootcamp%20Cognizant%20Cloud%20Data.pdf) | 1 h | 2021 |
+|             Digital Innovation One             | Bootcamp Cognizant Cloud Data  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Cognizant%20-%20Bootcamp%20Cognizant%20Cloud%20Data.pdf) | 1 h | 2021 |
 |             Digital Innovation One             | Fundamentos de ETL com Python [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Fundamentos%20de%20ETL%20com%20Python.pdf) | 5 h | 2021 |
 |             Digital Innovation One             | Introdução a Engenharia de Dados na Azure [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Introdução%20a%20Engenharia%20de%20Dados%20na%20Azure.pdf) | 1 h | 2021 |
 |             Digital Innovation One             | Conceitos e Melhores Práticas em Banco de Dados com PostgreSQL [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Cognizant%20-%20Conceitos%20e%20Melhores%20Praticas%20BD%20Postgresql.pdf) | 9 h | 2021 |
@@ -93,6 +93,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Databricks Academy | Fundamentals of Big Data   [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Databricks%20Academy%20-%20Fundamentals%20of%20Big%20Data.pdf) | 4 h | 2021 |
 | Digital Innovation One | Criação de Websites com HTML5 e CSS3 [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Criação%20de%20Websites%20com%20HTML5%20e%20CSS3.pdf) | 6 h | 2021 |
 | Digital Innovation One | Construindo Webpages com Bootstrap  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-Construindo%20Webpages%20com%20Bootstrap.pdf) | 4 H | 2021 |
+| Digital Innovation One | IDE Visual Studio Code [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Configuração%20VSCode.pdf) | 2 H | 2021 |
 
 #### :books: Outros Cursos
 
