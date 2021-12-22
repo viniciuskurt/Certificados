@@ -94,6 +94,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Digital Innovation One | Criação de Websites com HTML5 e CSS3 [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Criação%20de%20Websites%20com%20HTML5%20e%20CSS3.pdf) | 6 h | 2021 |
 | Digital Innovation One | Construindo Webpages com Bootstrap  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-Construindo%20Webpages%20com%20Bootstrap.pdf) | 4 H | 2021 |
 | Digital Innovation One | IDE Visual Studio Code [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Configuração%20VSCode.pdf) | 2 H | 2021 |
+| Digital Innovation One | Introdução a JavaScript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20a%20JavaScript.pdf) | 3 H | 2021 |
 
 #### :books: Outros Cursos
 
