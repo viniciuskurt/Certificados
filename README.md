@@ -99,7 +99,8 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Digital Innovation One | Sintaxe Básica em JavaScript  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Sintaxe%20Básica%20em%20JavaScript.pdf) | 2 H | 2021 |
 | Digital Innovation One | Sintaxe e Operadores JS [:scroll:](https://github.com/viniciuskurt/Certificados/commit/7a13430706dbc002ecc249212e9dad3f89f5378f) | 2 H | 2021 |
 | Udemy | Criando Páginas Web com o GitHub Pages | 1 H | 2021 |
-| Digital Innovation One | Variáveis e Tipos JavaScript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Variáveis%20e%20Tipos%20JavaScript.pdf) | 3 H | 2022 |
+| Digital Innovation One2022 | Variáveis e Tipos JavaScript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Variáveis%20e%20Tipos%20JavaScript.pdf) | 3 H | 2022 |
+| Digital Innovation One | Funções em JavaScript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Funções%20Javascript.pdf) | 1 H | 2022 |
 
 #### :books: Outros Cursos
 
@@ -118,14 +119,14 @@ Click on the icon ([:scroll:]) to view the Certificate.
 
 
 
-| Instituição/Institution |                         Título/Title                         | Carga horária |       Status       |
-| :---------------------: | :----------------------------------------------------------: | :-----------: | :----------------: |
-| Digital Innovation One  |                Cognizant Cloud Data Engineer                 |     100 H     | :heavy_check_mark: |
-| Digital Innovation One  |                Banco Carrefour Data Engineer                 |     114 H     | :heavy_check_mark: |
-|          IGTI           | Desenvolvedor Tech Pan  [:scroll:](hhttps://github.com/viniciuskurt/Certificados/blob/master/Certificado%20IGTI%20-%20Bootcamp%20Desenvolvedor%20Tech%20Pan.pdf) |     148 H     | :heavy_check_mark: |
-|          IGTI           |                        Speeed Wiz Dev                        |     148 H     | :heavy_check_mark: |
-| Digital Innovation One  |                   Inter Frontend Developer                   |     99 H      |     :clock10:      |
-| Digital Innovation One  |                   MRV Fullstack Developer                    |     107 H     |      :clock4:      |
+| Instituição/Institution |                         Título/Title                         | Ano / Carga horária |       Status       |
+| :---------------------: | :----------------------------------------------------------: | :-----------------: | :----------------: |
+| Digital Innovation One  |                Cognizant Cloud Data Engineer                 |    2021 / 100 H     | :heavy_check_mark: |
+| Digital Innovation One  |                Banco Carrefour Data Engineer                 |     2021 /114 H     | :heavy_check_mark: |
+|          IGTI           | Desenvolvedor Tech Pan  [:scroll:](hhttps://github.com/viniciuskurt/Certificados/blob/master/Certificado%20IGTI%20-%20Bootcamp%20Desenvolvedor%20Tech%20Pan.pdf) |    2021 / 148 H     | :heavy_check_mark: |
+|          IGTI           |                        Speeed Wiz Dev                        |    2021 / 148 H     | :heavy_check_mark: |
+| Digital Innovation One  |                   Inter Frontend Developer                   |     2022 / 99 H     |     :clock10:      |
+| Digital Innovation One  |                   MRV Fullstack Developer                    |    2022 / 107 H     |      :clock4:      |
 
 
 
